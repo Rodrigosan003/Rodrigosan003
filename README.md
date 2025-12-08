@@ -16,6 +16,11 @@
 </div>
 -->
 
+---
+# Sobre mim!
+
+<p>🌟 Transformando ideias em experiências digitais incríveis! 🎨💻 Sou especialista em desenvolvimento web e design gráfico, apaixonado por criar interfaces intuitivas e visualmente cativantes. Com habilidades em HTML, CSS, JavaScript e Adobe Creative Suite, estou pronto para colaborar no seu próximo projeto. Vamos transformar sua visão em realidade digital! ✨</p>
+
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -30,7 +35,9 @@
   <img align="center" alt="linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg">
 
 </div>
+<img src="https://raw.githubusercontent.com/Rodrigosan003/Rodrigosan003/output/snake.svg" alt="Snake animation" />
 
+###
 <br>
 <!--redes sociais-->
 <div align="center">
