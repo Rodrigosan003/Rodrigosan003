@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Rodrigo+Anastacio;I'm+35+years+old;I+from+Distrito+Federal,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+---
+# Sobre mim!
+
+<p>🌟 Transformando ideias em experiências digitais incríveis! 🎨💻 Sou especialista em desenvolvimento web e design gráfico, apaixonado por criar interfaces intuitivas e visualmente cativantes. Com habilidades em HTML, CSS, JavaScript e ferramentas de design, estou pronto para colaborar no seu próximo projeto. Vamos transformar sua visão em realidade digital! ✨</p>
 <!--
 <div align="center">
 <h1>Olá, eu sou Rodrigo Santana.</h1>
@@ -16,10 +20,7 @@
 </div>
 
 
----
-# Sobre mim!
 
-<p>🌟 Transformando ideias em experiências digitais incríveis! 🎨💻 Sou especialista em desenvolvimento web e design gráfico, apaixonado por criar interfaces intuitivas e visualmente cativantes. Com habilidades em HTML, CSS, JavaScript e ferramentas de design, estou pronto para colaborar no seu próximo projeto. Vamos transformar sua visão em realidade digital! ✨</p>
 
 <div style="display: inline_block" align="center"><br>
 <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
