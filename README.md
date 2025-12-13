@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Rodrigo+Anastacio;I'm+34+years+old;I+from+Distrito+Federal,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Rodrigo+Anastacio;I'm+35+years+old;I+from+Distrito+Federal,+DF;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <!--
 <div align="center">
@@ -8,13 +8,13 @@
 <h2>Bem Vindos</h2>
 </div>
 -->
-<!-- 
+<!-- -->
 <div align="center">
   <a href="https://github.com/rodrigosan003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosan003&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosan003&layout=compact&langs_count=7&theme=algolia"/>
 </div>
--->
+
 
 ---
 # Sobre mim!
