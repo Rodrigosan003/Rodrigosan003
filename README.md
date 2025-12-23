@@ -5,7 +5,23 @@
 ---
 # Sobre mim!
 
+<div align="center">
+  <p width="300">
+    🌟 Transformando ideias em experiências digitais incríveis! 🎨💻
+    Sou especialista em desenvolvimento web e design gráfico,
+    apaixonado por criar interfaces intuitivas e visualmente cativantes.
+    Com habilidades em HTML, CSS, JavaScript e ferramentas de design,
+    estou pronto para colaborar no seu próximo projeto.
+    Vamos transformar sua visão em realidade digital! ✨
+  </p>
+</div>
+
+
+
+<!--
 <p>🌟 Transformando ideias em experiências digitais incríveis! 🎨💻 Sou especialista em desenvolvimento web e design gráfico, apaixonado por criar interfaces intuitivas e visualmente cativantes. Com habilidades em HTML, CSS, JavaScript e ferramentas de design, estou pronto para colaborar no seu próximo projeto. Vamos transformar sua visão em realidade digital! ✨</p>
+-->
+
 <!--
 <div align="center">
 <h1>Olá, eu sou Rodrigo Santana.</h1>
