@@ -28,14 +28,14 @@
 <h2>Bem Vindos</h2>
 </div>
 -->
-<!-- 
+<!-- -->
 <div align="center">
   <a href="https://github.com/rodrigosan003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigosan003&show_icons=true&theme=algolia&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigosan003&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
--->
+
 
 
 <div style="display: inline_block" align="center"><br>
